@@ -1,0 +1,102 @@
+{
+    "git-graph.dialog.fetchRemote.prune": true,
+    "git-graph.dialog.fetchRemote.pruneTags": true,
+    "git-graph.dialog.merge.noCommit": true,
+    "git-graph.dialog.merge.noFastForward": false,
+    "files.insertFinalNewline": true,
+    "workbench.editor.enablePreview": false,
+    "workbench.colorTheme": "Night Owl Light",
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#555555",
+        "terminal.ansiBlack": "#F6F8FA",
+        "terminal.ansiBlue": "#639ada",
+        "terminal.ansiBrightBlue": "#639ada",
+        "terminal.ansiGreen": "#95C085",
+        "terminal.ansiBrightGreen": "#95C085",
+        "terminal.ansiYellow": "#ecb42f",
+        "terminal.ansiBrightYellow": "#ecb42f"
+    },
+    "editor.wordSeparators": "`~!#%^&*()-=+[{]}\\|;:'\",.<>/?",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+    "editor.minimap.enabled": false,
+    "editor.lineHeight": 3.2,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "debug.javascript.automaticallyTunnelRemoteServer": false,
+    "editor.autoClosingQuotes": "always",
+    "editor.autoClosingBrackets": "always",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "johnsoncodehk.volar"
+    },
+    "editor.lightbulb.enabled": "off",
+    "git.pruneOnFetch": true,
+    "git-graph.repository.fetchAndPrune": true,
+    "git-graph.repository.fetchAndPruneTags": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.startupEditor": "none",
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": true,
+        "markdown": false,
+        "sql": false
+    },
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "diffEditor.renderSideBySide": false,
+    "zenMode.centerLayout": false,
+    "zenMode.restore": false,
+    "zenMode.fullScreen": false,
+    "zenMode.hideLineNumbers": false,
+    "html.format.wrapLineLength": 600,
+    "window.title": "${rootName}",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.confirmBeforeClose": "keyboardOnly",
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "breadcrumbs.enabled": false,
+    "xml.server.binary.trustedHashes": [
+        "8080595d4aee6c70818be8c8c8f58db8e2214082492def527ac383970e75da4c"
+    ],
+    "inlineFold.supportedLanguages": [
+        "html",
+        "svelte",
+        "vue",
+        "javascript",
+        "typescript",
+        "javascriptreact",
+        "typescriptreact",
+        "blade"
+    ],
+    "inlineFold.unfoldedOpacity": 0.9,
+    "inlineFold.unfoldOnLineSelect": true,
+    "git.mergeEditor": false,
+    "explorer.confirmDragAndDrop": false,
+    "[scss]": {
+        "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
+    },
+    "[svg]": {
+        "editor.defaultFormatter": "jock.svg"
+    },
+    "window.commandCenter": false,
+    "editor.stickyScroll.enabled": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "github.copilot.editor.enableAutoCompletions": true
+}
